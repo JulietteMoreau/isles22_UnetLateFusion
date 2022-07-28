@@ -1,0 +1,2 @@
+/home/name/data/patient2/dwi.nii.gz	/home/name/data/patient2/mask.nii.gz
+/home/name/data/patient3/dwi.nii.gz	/home/name/data/patient3/mask.nii.gz

@@ -1,0 +1,4 @@
+/home/name/data/patient2/flair.nii.gz	/home/name/data/patient2/mask.nii.gz
+/home/name/data/patient3/flair.nii.gz	/home/name/data/patient3/mask.nii.gz
+/home/name/data/patient4/flair.nii.gz	/home/name/data/patient4/mask.nii.gz
+/home/name/data/patient5/flair.nii.gz	/home/name/data/patient5/mask.nii.gz

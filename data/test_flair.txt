@@ -1,0 +1,1 @@
+/home/name/data/patient1/flair.nii.gz	/home/name/data/patient1/mask.nii.gz
