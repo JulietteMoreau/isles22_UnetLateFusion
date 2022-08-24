@@ -34,3 +34,14 @@ The files from which the final docker image proposed for the chalenge are in the
 ./build.sh
 ./export.sh
 ```
+
+## Contributors
+
+Juliette Moreau ; CREATIS, Université Lyon1, CNRS UMR5220, INSERM U1206, INSA-Lyon, 69621 Villeurbanne, France
+Nima Hatami ; CREATIS, Université Lyon1, CNRS UMR5220, INSERM U1206, INSA-Lyon, 69621 Villeurbanne, France
+Tae-Hee Cho ; Département de neurologie, Hospices Civils de Lyon, 69500 Bron, France ; CarMeN, INSERM U1060, INRAe U1397, Université Lyon 1, INSA de Lyon, 69621 Villeurbanne, France
+Laura Mechtouff ; Département de neurologie, Hospices Civils de Lyon, 69500 Bron, France ; CarMeN, INSERM U1060, INRAe U1397, Université Lyon 1, INSA de Lyon, 69621 Villeurbanne, France
+David Rousseau ; LARIS, UMR IRHS INRAe, Universite d’Angers, 49100 Angers, France
+Omer Ecker ; Département de neurologie, Hospices Civils de Lyon, 69500 Bron, France
+Yves Berthezene ; Département de neurologie, Hospices Civils de Lyon, 69500 Bron, France
+Carole Frindel ; CREATIS, Université Lyon1, CNRS UMR5220, INSERM U1206, INSA-Lyon, 69621 Villeurbanne, France
